@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Starboy",
+    "artist": "The Weeknd ft. Daft Punk",
+    "spotify_url": "https://open.spotify.com/track/76hxER747m07gA09bZ7v9G",
+    "embed_id": "76hxER747m07gA09bZ7v9G",
+    "genre": "Synth-pop / R&B",
+    "release_year": 2016
+  },
+  {
+    "id": 2,
+    "title": "As It Was",
+    "artist": "Harry Styles",
+    "spotify_url": "https://open.spotify.com/track/4D7t7X2ZmvV7R7D6nKrx0W",
+    "embed_id": "4D7t7X2ZmvV7R7D6nKrx0W",
+    "genre": "Indie Pop",
+    "release_year": 2022
+  },
+  {
+    "id": 3,
+    "title": "Selfless",
+    "artist": "The Strokes",
+    "spotify_url": "https://open.spotify.com/track/2t0or7Cu6iPLgwwYj9S8Yg",
+    "embed_id": "2t0or7Cu6iPLgwwYj9S8Yg",
+    "genre": "Indie Rock",
+    "release_year": 2020
+  },
+  {
+    "id": 4,
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "spotify_url": "https://open.spotify.com/track/7tFiy0g03e66Y6qv66u30Y",
+    "embed_id": "7tFiy0g03e66Y6qv66u30Y",
+    "genre": "Classic Rock",
+    "release_year": 1975
+  },
+  {
+    "id": 5,
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "spotify_url": "https://open.spotify.com/track/0VjIjW4GlUZAMY0STZ2ztr",
+    "embed_id": "0VjIjW4GlUZAMY0STZ2ztr",
+    "genre": "Synthwave",
+    "release_year": 2019
+  },
+  {
+    "id": 6,
+    "title": "Dreams",
+    "artist": "Fleetwood Mac",
+    "spotify_url": "https://open.spotify.com/track/08mG3Y1vljmH6v5ZXCgJiX",
+    "embed_id": "08mG3Y1vljmH6v5ZXCgJiX",
+    "genre": "Classic Pop / Rock",
+    "release_year": 1977
+  },
+  {
+    "id": 7,
+    "title": "Hotel California",
+    "artist": "Eagles",
+    "spotify_url": "https://open.spotify.com/track/40rmUnu7XG0Z6mpx674uIU",
+    "embed_id": "40rmUnu7XG0Z6mpx674uIU",
+    "genre": "Rock / Folk Rock",
+    "release_year": 1976
+  },
+  {
+    "id": 8,
+    "title": "Fly Me To The Moon",
+    "artist": "Frank Sinatra",
+    "spotify_url": "https://open.spotify.com/track/2TmvUfV1u3m3m86R7D5g1b",
+    "embed_id": "2TmvUfV1u3m3m86R7D5g1b",
+    "genre": "Jazz / Vocal Jazz",
+    "release_year": 1964
+  }
+]
