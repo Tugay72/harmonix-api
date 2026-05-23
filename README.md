@@ -1,4 +1,4 @@
-# 🎵 Music of the Day API
+# 🎵 Harmonix API
 
 An elegant, open-source Flask API that serving a deterministic, rotating "Song of the Day". It guarantees that **everyone globally sees the exact same song throughout the day**, changing precisely at midnight!
 
