@@ -1,0 +1,534 @@
+[
+  {
+    "id": 1,
+    "title": "In Da Club",
+    "artist": "50 Cent",
+    "genre": "Hip Hop",
+    "release_year": 2003
+  },
+  {
+    "id": 2,
+    "title": "Candy Shop",
+    "artist": "50 Cent ft. Olivia",
+    "genre": "Hip Hop",
+    "release_year": 2005
+  },
+  {
+    "id": 3,
+    "title": "Lady (Hear Me Tonight)",
+    "artist": "Modjo",
+    "genre": "House",
+    "release_year": 2000
+  },
+  {
+    "id": 4,
+    "title": "It Feels So Good",
+    "artist": "Sonique",
+    "genre": "Dance",
+    "release_year": 1998
+  },
+  {
+    "id": 5,
+    "title": "World, Hold On",
+    "artist": "Bob Sinclar ft. Steve Edwards",
+    "genre": "House",
+    "release_year": 2006
+  },
+  {
+    "id": 6,
+    "title": "Lean On",
+    "artist": "Major Lazer & DJ Snake ft. MØ",
+    "genre": "Electronic",
+    "release_year": 2015
+  },
+  {
+    "id": 7,
+    "title": "This Is What You Came For",
+    "artist": "Calvin Harris ft. Rihanna",
+    "genre": "Dance",
+    "release_year": 2016
+  },
+  {
+    "id": 8,
+    "title": "I Took A Pill In Ibiza (Seeb Remix)",
+    "artist": "Mike Posner",
+    "genre": "Tropical House",
+    "release_year": 2015
+  },
+  {
+    "id": 9,
+    "title": "Love Me Again",
+    "artist": "John Newman",
+    "genre": "Soul Pop",
+    "release_year": 2013
+  },
+  {
+    "id": 10,
+    "title": "One More Time",
+    "artist": "Daft Punk",
+    "genre": "House",
+    "release_year": 2000
+  },
+  {
+    "id": 11,
+    "title": "SexyBack",
+    "artist": "Justin Timberlake",
+    "genre": "Pop",
+    "release_year": 2006
+  },
+  {
+    "id": 12,
+    "title": "Yeah!",
+    "artist": "Usher ft. Lil Jon, Ludacris",
+    "genre": "R&B",
+    "release_year": 2004
+  },
+  {
+    "id": 13,
+    "title": "Hips Don't Lie",
+    "artist": "Shakira ft. Wyclef Jean",
+    "genre": "Latin Pop",
+    "release_year": 2006
+  },
+  {
+    "id": 14,
+    "title": "Temperature",
+    "artist": "Sean Paul",
+    "genre": "Dancehall",
+    "release_year": 2005
+  },
+  {
+    "id": 15,
+    "title": "Low",
+    "artist": "Flo Rida ft. T-Pain",
+    "genre": "Hip Hop",
+    "release_year": 2007
+  },
+  {
+    "id": 16,
+    "title": "Pump It",
+    "artist": "Black Eyed Peas",
+    "genre": "Hip Hop",
+    "release_year": 2006
+  },
+  {
+    "id": 17,
+    "title": "Don't Stop the Music",
+    "artist": "Rihanna",
+    "genre": "Dance",
+    "release_year": 2007
+  },
+  {
+    "id": 18,
+    "title": "Crazy In Love",
+    "artist": "Beyoncé ft. Jay-Z",
+    "genre": "R&B",
+    "release_year": 2003
+  },
+  {
+    "id": 19,
+    "title": "Promiscuous",
+    "artist": "Nelly Furtado ft. Timbaland",
+    "genre": "Pop",
+    "release_year": 2006
+  },
+  {
+    "id": 20,
+    "title": "Poker Face",
+    "artist": "Lady Gaga",
+    "genre": "Dance",
+    "release_year": 2008
+  },
+  {
+    "id": 21,
+    "title": "Right Round",
+    "artist": "Flo Rida",
+    "genre": "Pop",
+    "release_year": 2009
+  },
+  {
+    "id": 22,
+    "title": "Tik Tok",
+    "artist": "Kesha",
+    "genre": "Pop",
+    "release_year": 2009
+  },
+  {
+    "id": 23,
+    "title": "Firework",
+    "artist": "Katy Perry",
+    "genre": "Pop",
+    "release_year": 2010
+  },
+  {
+    "id": 24,
+    "title": "Party Rock Anthem",
+    "artist": "LMFAO",
+    "genre": "Dance",
+    "release_year": 2011
+  },
+  {
+    "id": 25,
+    "title": "Call Me Maybe",
+    "artist": "Carly Rae Jepsen",
+    "genre": "Pop",
+    "release_year": 2011
+  },
+  {
+    "id": 26,
+    "title": "Gangnam Style",
+    "artist": "Psy",
+    "genre": "K-Pop",
+    "release_year": 2012
+  },
+  {
+    "id": 27,
+    "title": "Get Lucky",
+    "artist": "Daft Punk ft. Pharrell Williams",
+    "genre": "Disco",
+    "release_year": 2013
+  },
+  {
+    "id": 28,
+    "title": "Happy",
+    "artist": "Pharrell Williams",
+    "genre": "Pop",
+    "release_year": 2013
+  },
+  {
+    "id": 29,
+    "title": "Uptown Funk",
+    "artist": "Mark Ronson ft. Bruno Mars",
+    "genre": "Funk",
+    "release_year": 2014
+  },
+  {
+    "id": 30,
+    "title": "See You Again",
+    "artist": "Wiz Khalifa ft. Charlie Puth",
+    "genre": "Pop",
+    "release_year": 2015
+  },
+  {
+    "id": 31,
+    "title": "Hello",
+    "artist": "Adele",
+    "genre": "Pop",
+    "release_year": 2015
+  },
+  {
+    "id": 32,
+    "title": "Can't Stop the Feeling!",
+    "artist": "Justin Timberlake",
+    "genre": "Pop",
+    "release_year": 2016
+  },
+  {
+    "id": 33,
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "genre": "Pop",
+    "release_year": 2017
+  },
+  {
+    "id": 34,
+    "title": "Despacito",
+    "artist": "Luis Fonsi ft. Daddy Yankee",
+    "genre": "Reggaeton",
+    "release_year": 2017
+  },
+  {
+    "id": 35,
+    "title": "Havana",
+    "artist": "Camila Cabello ft. Young Thug",
+    "genre": "Pop",
+    "release_year": 2017
+  },
+  {
+    "id": 36,
+    "title": "Love Me Harder",
+    "artist": "Ariana Grande",
+    "genre": "Pop",
+    "release_year": 2014
+  },
+  {
+    "id": 37,
+    "title": "Old Town Road (Remix)",
+    "artist": "Lil Nas X ft. Billy Ray Cyrus",
+    "genre": "Country Rap",
+    "release_year": 2019
+  },
+  {
+    "id": 38,
+    "title": "Bad Guy",
+    "artist": "Billie Eilish",
+    "genre": "Pop",
+    "release_year": 2019
+  },
+  {
+    "id": 39,
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "genre": "Synthwave",
+    "release_year": 2019
+  },
+  {
+    "id": 40,
+    "title": "Don't Start Now",
+    "artist": "Dua Lipa",
+    "genre": "Disco",
+    "release_year": 2019
+  },
+  {
+    "id": 41,
+    "title": "Levitating",
+    "artist": "Dua Lipa",
+    "genre": "Disco",
+    "release_year": 2020
+  },
+  {
+    "id": 42,
+    "title": "As It Was",
+    "artist": "Harry Styles",
+    "genre": "Indie Pop",
+    "release_year": 2022
+  },
+  {
+    "id": 43,
+    "title": "Not Like Us",
+    "artist": "Kendrick Lamar",
+    "genre": "Hip Hop",
+    "release_year": 2024
+  },
+  {
+    "id": 44,
+    "title": "Lose Control",
+    "artist": "Teddy Swims",
+    "genre": "Soul",
+    "release_year": 2023
+  },
+  {
+    "id": 45,
+    "title": "Beautiful Things",
+    "artist": "Benson Boone",
+    "genre": "Pop",
+    "release_year": 2024
+  },
+  {
+    "id": 46,
+    "title": "Burn",
+    "artist": "Ellie Goulding",
+    "genre": "Pop",
+    "release_year": 2014
+  },
+  {
+    "id": 47,
+    "title": "Umbrella",
+    "artist": "Rihanna ft. Jay-Z",
+    "genre": "Pop",
+    "release_year": 2007
+  },
+  {
+    "id": 48,
+    "title": "Moves Like Jagger",
+    "artist": "Maroon 5 ft. Christina Aguilera",
+    "genre": "Pop",
+    "release_year": 2011
+  },
+  {
+    "id": 49,
+    "title": "We Found Love",
+    "artist": "Rihanna ft. Calvin Harris",
+    "genre": "Dance",
+    "release_year": 2011
+  },
+  {
+    "id": 50,
+    "title": "Somebody That I Used to Know",
+    "artist": "Gotye ft. Kimbra",
+    "genre": "Pop",
+    "release_year": 2011
+  },
+  {
+    "id": 51,
+    "title": "Thrift Shop",
+    "artist": "Macklemore & Ryan Lewis ft. Wanz",
+    "genre": "Hip Hop",
+    "release_year": 2012
+  },
+  {
+    "id": 52,
+    "title": "Blurred Lines",
+    "artist": "Robin Thicke ft. T.I., Pharrell",
+    "genre": "Pop",
+    "release_year": 2013
+  },
+  {
+    "id": 53,
+    "title": "Shake It Off",
+    "artist": "Taylor Swift",
+    "genre": "Pop",
+    "release_year": 2014
+  },
+  {
+    "id": 54,
+    "title": "Sugar",
+    "artist": "Maroon 5",
+    "genre": "Pop",
+    "release_year": 2014
+  },
+  {
+    "id": 55,
+    "title": "Thinking Out Loud",
+    "artist": "Ed Sheeran",
+    "genre": "Pop",
+    "release_year": 2014
+  },
+  {
+    "id": 56,
+    "title": "Love Yourself",
+    "artist": "Justin Bieber",
+    "genre": "Pop",
+    "release_year": 2015
+  },
+  {
+    "id": 78,
+    "title": "Stressed Out",
+    "artist": "Twenty One Pilots",
+    "genre": "Alt-Pop",
+    "release_year": 2015
+  },
+  {
+    "id": 58,
+    "title": "Closer",
+    "artist": "The Chainsmokers ft. Halsey",
+    "genre": "Dance",
+    "release_year": 2016
+  },
+  {
+    "id": 59,
+    "title": "Cheap Thrills",
+    "artist": "Sia",
+    "genre": "Pop",
+    "release_year": 2016
+  },
+  {
+    "id": 60,
+    "title": "Work",
+    "artist": "Rihanna ft. Drake",
+    "genre": "Dancehall",
+    "release_year": 2016
+  },
+  {
+    "id": 61,
+    "title": "Perfect",
+    "artist": "Ed Sheeran",
+    "genre": "Pop",
+    "release_year": 2017
+  },
+  {
+    "id": 62,
+    "title": "God's Plan",
+    "artist": "Drake",
+    "genre": "Hip Hop",
+    "release_year": 2018
+  },
+  {
+    "id": 63,
+    "title": "Girls Like You",
+    "artist": "Maroon 5 ft. Cardi B",
+    "genre": "Pop",
+    "release_year": 2018
+  },
+  {
+    "id": 64,
+    "title": "SICKO MODE",
+    "artist": "Travis Scott",
+    "genre": "Hip Hop",
+    "release_year": 2018
+  },
+  {
+    "id": 65,
+    "title": "Senorita",
+    "artist": "Shawn Mendes & Camila Cabello",
+    "genre": "Pop",
+    "release_year": 2019
+  },
+  {
+    "id": 66,
+    "title": "Dance Monkey",
+    "artist": "Tones and I",
+    "genre": "Pop",
+    "release_year": 2019
+  },
+  {
+    "id": 67,
+    "title": "Watermelon Sugar",
+    "artist": "Harry Styles",
+    "genre": "Pop",
+    "release_year": 2019
+  },
+  {
+    "id": 68,
+    "title": "Save Your Tears",
+    "artist": "The Weeknd",
+    "genre": "Pop",
+    "release_year": 2020
+  },
+  {
+    "id": 69,
+    "title": "Heat Waves",
+    "artist": "Glass Animals",
+    "genre": "Alt-Pop",
+    "release_year": 2020
+  },
+  {
+    "id": 70,
+    "title": "Bad Habits",
+    "artist": "Ed Sheeran",
+    "genre": "Pop",
+    "release_year": 2021
+  },
+  {
+    "id": 71,
+    "title": "Paint The Town Red",
+    "artist": "Doja Cat",
+    "genre": "Hip Hop",
+    "release_year": 2023
+  },
+  {
+    "id": 72,
+    "title": "Danza Kuduro",
+    "artist": "Don Omar ft. Lucenzo",
+    "genre": "Reggaeton",
+    "release_year": 2010
+  },
+  {
+    "id": 73,
+    "title": "Ocean Drive",
+    "artist": "Duke Dumont",
+    "genre": "Deep House",
+    "release_year": 2015
+  },
+  {
+    "id": 74,
+    "title": "Lost on You",
+    "artist": "LP",
+    "genre": "Indie Pop",
+    "release_year": 2015
+  },
+  {
+    "id": 75,
+    "title": "We Are The People",
+    "artist": "Empire of the Sun",
+    "genre": "Synth-Pop",
+    "release_year": 2008
+  },
+  {
+    "id": 76,
+    "title": "Hello",
+    "artist": "Pop Smoke",
+    "genre": "Brooklyn Drill",
+    "release_year": 2020
+  }
+]
