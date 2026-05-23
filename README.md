@@ -74,12 +74,10 @@ curl http://localhost:5000/api/today
   "date": "2026-05-23",
   "ordinal_seed": 739765,
   "song": {
-    "title": "Selfless",
-    "artist": "The Strokes",
-    "spotify_url": "https://open.spotify.com/track/2t0or7Cu6iPLgwwYj9S8Yg",
-    "embed_id": "2t0or7Cu6iPLgwwYj9S8Yg",
-    "genre": "Indie Rock",
-    "release_year": 2020
+    "title": "In Da Club",
+    "artist": "50 Cent",
+    "genre": "Hip Hop",
+    "release_year": 2003
   }
 }
 ```
@@ -95,8 +93,6 @@ curl http://localhost:5000/api/today
   "song": {
     "title": "As It Was",
     "artist": "Harry Styles",
-    "spotify_url": "https://open.spotify.com/track/4D7t7X2ZmvV7R7D6nKrx0W",
-    "embed_id": "4D7t7X2ZmvV7R7D6nKrx0W",
     "genre": "Indie Pop",
     "release_year": 2022
   }
@@ -140,16 +136,14 @@ We welcome song additions to improve our global rotation dataset!
 2. Edit `songs.json` to add your song element using this exact schema:
    ```json
    {
-     "id": 9,
+     "id": 101,
      "title": "Song Title",
      "artist": "Artist Name",
-     "spotify_url": "https://open.spotify.com/track/<spotify_track_id>",
-     "embed_id": "<spotify_track_id>",
-     "genre": "Electronic",
-     "release_year": 2025
+     "genre": "Pop Rock",
+     "release_year": 2026
    }
    ```
-3. Ensure no duplicate entries exist, and that track URL link IDs match the embed IDs carefully!
+3. Ensure the id increments sequentially, no duplicates exist, and no external token strings or link keys are included!
 
 ---
 
