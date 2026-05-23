@@ -35,7 +35,7 @@ To kickstart this Flask microservice on your machine:
 ### 1. Clone & Navigate
 ```bash
 git clone https://github.com/Tugay72/harmonix-api.git
-cd music-of-the-day-api
+cd harmonix-api
 ```
 
 ### 2. Configure Virtual Environment
