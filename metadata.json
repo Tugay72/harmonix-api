@@ -1,0 +1,6 @@
+{
+  "name": "Harmonix API",
+  "description": "An open-source API built with Python Flask that returns a consistent, daily-rotating music choice, with an interactive testing playground and documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

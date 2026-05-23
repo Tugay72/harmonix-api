@@ -1,11 +1,7 @@
-# Python virtual environments
-venv/
-.venv/
-env/
-__pycache__/
-*.pyc
-
-# IDEs or local files
-.vscode/
-.idea/
+node_modules/
+.next/
+coverage/
 .DS_Store
+*.log
+.env*
+!.env.example
