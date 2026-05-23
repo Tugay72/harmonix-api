@@ -37,8 +37,6 @@ def get_today_song():
         "song": {
             "title": todays_song.get("title"),
             "artist": todays_song.get("artist"),
-            "spotify_url": todays_song.get("spotify_url"),
-            "embed_id": todays_song.get("embed_id"),
             "genre": todays_song.get("genre", "Unknown"),
             "release_year": todays_song.get("release_year", "Unknown")
         }
@@ -71,8 +69,6 @@ def get_song_by_date(date_str):
         "song": {
             "title": chosen_song.get("title"),
             "artist": chosen_song.get("artist"),
-            "spotify_url": chosen_song.get("spotify_url"),
-            "embed_id": chosen_song.get("embed_id"),
             "genre": chosen_song.get("genre", "Unknown"),
             "release_year": chosen_song.get("release_year", "Unknown")
         }
